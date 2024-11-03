@@ -1,1 +1,28 @@
-.ipynb_checkpoints
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment
+.venv/
+env/
+
+# VS Code settings 
+.vscode/
+
+# OS-specific files
+Thumbs.db  # Windows
+
+# Logs
+*.log
+
+# Python-specific files
+*.pyc
+*.pyo
+*.pyd
+*.whl
+
+# Jupyter notebook hidden files
+*.ipynb_checkpoints
